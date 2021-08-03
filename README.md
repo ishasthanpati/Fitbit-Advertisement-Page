@@ -1,4 +1,4 @@
 # Advertisement
 
-This is a simple advertisement page using HTMl, CSS, and Bootstrap.
+<p>This is a simple advertisement page using HTMl, CSS, and Bootstrap.</P>
 It is fully responsive.
