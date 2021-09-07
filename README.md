@@ -1,6 +1,5 @@
 # Advertisement
 
-This is a simple advertisement page using HTML, CSS, and Bootstrap.<br>
-It is fully responsive.
+This is a simple advertisement page using HTML, CSS, and Bootstrap.
 
 <p> Link: https://ishasthanpati.github.io/advertisement/ </p>
